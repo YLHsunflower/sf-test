@@ -1,0 +1,273 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:417px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u46_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:81px;
+  height:20px;
+}
+#u46 {
+  position:absolute;
+  left:100px;
+  top:50px;
+  width:80px;
+  height:19px;
+  font-family:'等线 Bold', '等线';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  color:#464C5B;
+}
+#u47 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:80px;
+  white-space:nowrap;
+}
+#u48_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:34px;
+  height:18px;
+}
+#u48 {
+  position:absolute;
+  left:100px;
+  top:92px;
+  width:33px;
+  height:17px;
+  font-family:'等线 Bold', '等线';
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+  color:#464C5B;
+}
+#u49 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:33px;
+  white-space:nowrap;
+}
+#u50_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:318px;
+  height:15px;
+}
+#u50 {
+  position:absolute;
+  left:100px;
+  top:130px;
+  width:317px;
+  height:14px;
+  font-family:'等线';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#464C5B;
+}
+#u51 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:317px;
+  white-space:nowrap;
+}
+#u52_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:283px;
+  height:20px;
+}
+#u52 {
+  position:absolute;
+  left:100px;
+  top:167px;
+  width:282px;
+  height:19px;
+  font-family:'等线 Bold', '等线';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  color:#464C5B;
+}
+#u53 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:282px;
+  white-space:nowrap;
+}
+#u54_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:261px;
+  height:18px;
+}
+#u54 {
+  position:absolute;
+  left:100px;
+  top:208px;
+  width:260px;
+  height:17px;
+  font-family:'等线 Bold', '等线';
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+  color:#464C5B;
+}
+#u55 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:260px;
+  white-space:nowrap;
+}
+#u56_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:218px;
+  height:15px;
+}
+#u56 {
+  position:absolute;
+  left:100px;
+  top:248px;
+  width:217px;
+  height:14px;
+  font-family:'等线 Bold', '等线';
+  font-weight:700;
+  font-style:normal;
+  color:#464C5B;
+}
+#u57 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:217px;
+  white-space:nowrap;
+}
+#u58_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:188px;
+  height:15px;
+}
+#u58 {
+  position:absolute;
+  left:100px;
+  top:285px;
+  width:187px;
+  height:14px;
+  font-family:'等线';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#464C5B;
+}
+#u59 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:187px;
+  white-space:nowrap;
+}
+#u60_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:215px;
+  height:15px;
+}
+#u60 {
+  position:absolute;
+  left:100px;
+  top:322px;
+  width:214px;
+  height:14px;
+  font-family:'等线';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#9EA7B4;
+}
+#u61 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:214px;
+  white-space:nowrap;
+}
+#u62_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:213px;
+  height:15px;
+}
+#u62 {
+  position:absolute;
+  left:100px;
+  top:358px;
+  width:212px;
+  height:14px;
+  font-family:'等线';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#C3CBD6;
+}
+#u63 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:212px;
+  white-space:nowrap;
+}
+#u64_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:209px;
+  height:15px;
+}
+#u64 {
+  position:absolute;
+  left:100px;
+  top:395px;
+  width:208px;
+  height:14px;
+  font-family:'等线';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#3399FF;
+}
+#u65 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:208px;
+  white-space:nowrap;
+}

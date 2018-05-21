@@ -1,0 +1,39 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:317px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u2237_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:218px;
+  height:15px;
+}
+#u2237 {
+  position:absolute;
+  left:100px;
+  top:100px;
+  width:217px;
+  height:14px;
+  font-family:'等线 Bold', '等线';
+  font-weight:700;
+  font-style:normal;
+  color:#464C5B;
+}
+#u2238 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:217px;
+  white-space:nowrap;
+}

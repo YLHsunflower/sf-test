@@ -1,0 +1,47 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:152px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u2249_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:73px;
+  height:35px;
+}
+#u2249 {
+  position:absolute;
+  left:80px;
+  top:99px;
+  width:72px;
+  height:34px;
+  font-family:'苹方 Regular', '苹方';
+  font-weight:400;
+  font-style:normal;
+  color:#464C5B;
+}
+#u2249_img.mouseOver {
+}
+#u2249.mouseOver {
+}
+#u2249_img.disabled {
+}
+#u2249.disabled {
+}
+#u2250 {
+  position:absolute;
+  left:2px;
+  top:9px;
+  width:68px;
+  word-wrap:break-word;
+}

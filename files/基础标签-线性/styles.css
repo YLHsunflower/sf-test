@@ -1,0 +1,118 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:456px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u3766_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:71px;
+  height:23px;
+}
+#u3766 {
+  position:absolute;
+  left:117px;
+  top:127px;
+  width:70px;
+  height:22px;
+  font-family:'苹方 Regular', '苹方';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#2D8CF0;
+}
+#u3767 {
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:66px;
+  word-wrap:break-word;
+}
+#u3768_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:71px;
+  height:23px;
+}
+#u3768 {
+  position:absolute;
+  left:205px;
+  top:127px;
+  width:70px;
+  height:22px;
+  font-family:'苹方 Regular', '苹方';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#19BE6B;
+}
+#u3769 {
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:66px;
+  word-wrap:break-word;
+}
+#u3770_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:71px;
+  height:23px;
+}
+#u3770 {
+  position:absolute;
+  left:297px;
+  top:127px;
+  width:70px;
+  height:22px;
+  font-family:'苹方 Regular', '苹方';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#FF9900;
+}
+#u3771 {
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:66px;
+  word-wrap:break-word;
+}
+#u3772_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:71px;
+  height:23px;
+}
+#u3772 {
+  position:absolute;
+  left:386px;
+  top:127px;
+  width:70px;
+  height:22px;
+  font-family:'苹方 Regular', '苹方';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#ED3F14;
+}
+#u3773 {
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:66px;
+  word-wrap:break-word;
+}

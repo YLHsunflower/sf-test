@@ -1,0 +1,80 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:329px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u2537 {
+  position:absolute;
+  left:100px;
+  top:100px;
+  width:58px;
+  height:16px;
+  font-family:'等线';
+  font-weight:400;
+  font-style:normal;
+}
+#u2538 {
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:40px;
+  word-wrap:break-word;
+}
+#u2537_input {
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
+#u2539 {
+  position:absolute;
+  left:186px;
+  top:100px;
+  width:58px;
+  height:16px;
+  font-family:'等线';
+  font-weight:400;
+  font-style:normal;
+}
+#u2540 {
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:40px;
+  word-wrap:break-word;
+}
+#u2539_input {
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
+#u2541 {
+  position:absolute;
+  left:271px;
+  top:100px;
+  width:58px;
+  height:16px;
+  font-family:'等线';
+  font-weight:400;
+  font-style:normal;
+}
+#u2542 {
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:40px;
+  word-wrap:break-word;
+}
+#u2541_input {
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}

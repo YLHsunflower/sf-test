@@ -1,0 +1,39 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:414px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u2213_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:315px;
+  height:80px;
+}
+#u2213 {
+  position:absolute;
+  left:100px;
+  top:100px;
+  width:314px;
+  height:79px;
+  font-family:'等线';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u2214 {
+  position:absolute;
+  left:2px;
+  top:26px;
+  width:310px;
+  word-wrap:break-word;
+}
